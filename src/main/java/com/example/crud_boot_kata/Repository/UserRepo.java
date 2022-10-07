@@ -1,4 +1,4 @@
-package com.example.crud_boot_kata.DAO;
+package com.example.crud_boot_kata.Repository;
 
 import com.example.crud_boot_kata.model.User;
 
